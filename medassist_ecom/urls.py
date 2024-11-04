@@ -14,15 +14,17 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path,include
 from . import Category_Controller
 from . import Subcategory_Controller
 from . import Brand_Controller
 from . import Product_Controller
 from . import Admin_Controller
 from . import User_Interface
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('myapp.urls')),
     path('categoryinterface/',Category_Controller.Category_Interface),
     path('submitcategory',Category_Controller.Submit_Category),
     path('displayallcategories/', Category_Controller.Display_All_Category),
