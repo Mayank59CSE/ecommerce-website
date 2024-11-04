@@ -1,0 +1,4 @@
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.security.csrf:Forbidden (CSRF cookie not set.): /checkadminlogin
+INFO:django.utils.autoreload:D:\medassist_ecom\medassist_ecom\Admin_Controller.py changed, reloading.
