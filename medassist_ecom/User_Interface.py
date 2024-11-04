@@ -5,7 +5,7 @@ import json
 from urllib.parse import unquote
 
 def Index(request):
-    return render(request ,"Index.html")
+    return render(request ,"index.html")
 
 # def Add_To_Cart(request):
     # try:
