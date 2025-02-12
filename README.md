@@ -75,19 +75,38 @@ project_root/
 
 Here are some previews of the Medical E-commerce Website:
 
-![Dashboard](Screenshot%20(168).png)
+## 📸 Screenshots
 
-### 📈 Trends Analysis  
-![Trends](Screenshot%20(169).png)
-
-### 🚗 Ride Insights  
-![Insights](Screenshot%20(170).png)
-
-### 💰 Revenue Report  
-![Revenue](Screenshot%20(171).png)
-
-### 📍 Geospatial Analysis  
-![Map](Screenshot%20(172).png)
+![Screenshot 1](Screenshot%20(168).png)  
+![Screenshot 2](Screenshot%20(169).png)  
+![Screenshot 3](Screenshot%20(170).png)  
+![Screenshot 4](Screenshot%20(171).png)  
+![Screenshot 5](Screenshot%20(172).png)  
+![Screenshot 6](Screenshot%20(173).png)  
+![Screenshot 7](Screenshot%20(174).png)  
+![Screenshot 8](Screenshot%20(175).png)  
+![Screenshot 9](Screenshot%20(176).png)  
+![Screenshot 10](Screenshot%20(177).png)  
+![Screenshot 11](Screenshot%20(178).png)  
+![Screenshot 12](Screenshot%20(179).png)  
+![Screenshot 13](Screenshot%20(180).png)  
+![Screenshot 14](Screenshot%20(181).png)  
+![Screenshot 15](Screenshot%20(182).png)  
+![Screenshot 16](Screenshot%20(183).png)  
+![Screenshot 17](Screenshot%20(184).png)  
+![Screenshot 18](Screenshot%20(185).png)  
+![Screenshot 19](Screenshot%20(186).png)  
+![Screenshot 20](Screenshot%20(187).png)  
+![Screenshot 21](Screenshot%20(188).png)  
+![Screenshot 22](Screenshot%20(189).png)  
+![Screenshot 23](Screenshot%20(190).png)  
+![Screenshot 24](Screenshot%20(191).png)  
+![Screenshot 25](Screenshot%20(192).png)  
+![Screenshot 26](Screenshot%20(193).png)  
+![Screenshot 27](Screenshot%20(194).png)  
+![Screenshot 28](Screenshot%20(195).png)  
+![Screenshot 29](Screenshot%20(196).png)  
+![Screenshot 30](Screenshot%20(197).png) 
 
 
 ## 🤝 Contributing
