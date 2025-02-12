@@ -109,13 +109,3 @@ Here are some previews of the Medical E-commerce Website:
 ![Screenshot 30](Screenshot%20(197).png) 
 
 
-## 🤝 Contributing
-
-We welcome contributions! Feel free to fork this repository, report issues, and submit pull requests to improve the platform.
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-🚀 **Happy Coding & Stay Healthy!** 💙
-
