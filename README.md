@@ -75,7 +75,19 @@ project_root/
 
 Here are some previews of the Medical E-commerce Website:
 
+![Dashboard](Screenshot%20(168).png)
 
+### 📈 Trends Analysis  
+![Trends](Screenshot%20(169).png)
+
+### 🚗 Ride Insights  
+![Insights](Screenshot%20(170).png)
+
+### 💰 Revenue Report  
+![Revenue](Screenshot%20(171).png)
+
+### 📍 Geospatial Analysis  
+![Map](Screenshot%20(172).png)
 
 
 ## 🤝 Contributing
