@@ -75,35 +75,44 @@ project_root/
 
 Here are some previews of the Medical E-commerce Website:
 
-![Screenshot 168](assets/Screenshot_168.png)
-![Screenshot 169](assets/Screenshot_169.png)
-![Screenshot 170](assets/Screenshot_170.png)
-![Screenshot 171](assets/Screenshot_171.png)
-![Screenshot 172](assets/Screenshot_172.png)
-![Screenshot 173](assets/Screenshot_173.png)
-![Screenshot 174](assets/Screenshot_174.png)
-![Screenshot 175](assets/Screenshot_175.png)
-![Screenshot 176](assets/Screenshot_176.png)
-![Screenshot 177](assets/Screenshot_177.png)
-![Screenshot 178](assets/Screenshot_178.png)
-![Screenshot 179](assets/Screenshot_179.png)
-![Screenshot 180](assets/Screenshot_180.png)
-![Screenshot 181](assets/Screenshot_181.png)
-![Screenshot 182](assets/Screenshot_182.png)
-![Screenshot 183](assets/Screenshot_183.png)
-![Screenshot 184](assets/Screenshot_184.png)
-![Screenshot 185](assets/Screenshot_185.png)
-![Screenshot 186](assets/Screenshot_186.png)
-![Screenshot 187](assets/Screenshot_187.png)
-![Screenshot 188](assets/Screenshot_188.png)
-![Screenshot 189](assets/Screenshot_189.png)
-![Screenshot 190](assets/Screenshot_190.png)
-![Screenshot 191](assets/Screenshot_191.png)
-![Screenshot 192](assets/Screenshot_192.png)
-![Screenshot 193](assets/Screenshot_193.png)
-![Screenshot 194](assets/Screenshot_194.png)
-![Screenshot 195](assets/Screenshot_195.png)
-![Screenshot 196](assets/Screenshot_196.png)
-![Screenshot 197](assets/Screenshot_197.png)
+![Screenshot (168)](assets/Screenshot (168).png)
+![Screenshot (169)](assets/Screenshot (169).png)
+![Screenshot (170)](assets/Screenshot (170).png)
+![Screenshot (171)](assets/Screenshot (171).png)
+![Screenshot (172)](assets/Screenshot (172).png)
+![Screenshot (173)](assets/Screenshot (173).png)
+![Screenshot (174)](assets/Screenshot (174).png)
+![Screenshot (175)](assets/Screenshot (175).png)
+![Screenshot (176)](assets/Screenshot (176).png)
+![Screenshot (177)](assets/Screenshot (177).png)
+![Screenshot (178)](assets/Screenshot (178).png)
+![Screenshot (179)](assets/Screenshot (179).png)
+![Screenshot (180)](assets/Screenshot (180).png)
+![Screenshot (181)](assets/Screenshot (181).png)
+![Screenshot (182)](assets/Screenshot (182).png)
+![Screenshot (183)](assets/Screenshot (183).png)
+![Screenshot (184)](assets/Screenshot (184).png)
+![Screenshot (185)](assets/Screenshot (185).png)
+![Screenshot (186)](assets/Screenshot (186).png)
+![Screenshot (187)](assets/Screenshot (187).png)
+![Screenshot (188)](assets/Screenshot (188).png)
+![Screenshot (189)](assets/Screenshot (189).png)
+![Screenshot (190)](assets/Screenshot (190).png)
+![Screenshot (191)](assets/Screenshot (191).png)
+![Screenshot (192)](assets/Screenshot (192).png)
+![Screenshot (193)](assets/Screenshot (193).png)
+![Screenshot (194)](assets/Screenshot (194).png)
+![Screenshot (195)](assets/Screenshot (195).png)
+![Screenshot (196)](assets/Screenshot (196).png)
+![Screenshot (197)](assets/Screenshot (197).png)
 
+## 🤝 Contributing
+
+We welcome contributions! Feel free to fork this repository, report issues, and submit pull requests to improve the platform.
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+🚀 **Happy Coding & Stay Healthy!** 💙
 
