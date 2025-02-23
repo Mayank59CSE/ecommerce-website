@@ -76,7 +76,9 @@ project_root/
 Here are some previews of the Medical E-commerce Website:
 
 ## 📸 Screenshots
-
+![Screenshot 1](Screenshot%20(202).png)   
+![Screenshot 1](Screenshot%20(203).png)   
+![Screenshot 1](Screenshot%20(204).png)  
 ![Screenshot 1](Screenshot%20(168).png)  
 ![Screenshot 2](Screenshot%20(169).png)  
 ![Screenshot 3](Screenshot%20(170).png)  
